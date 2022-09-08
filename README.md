@@ -10,4 +10,4 @@
 Ticianebarros/Ticianebarros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Pessoas que visitaram meu perfil: <img src="https://profile-counter.glitch.me/{Ticianebarros}/count.svg" alt="Ticiane :: Visitor's Count" />
+Pessoas que visitaram o meu perfil: <img src="https://profile-counter.glitch.me/{Ticianebarros}/count.svg" alt="Ticiane :: Visitor's Count" />
