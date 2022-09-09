@@ -4,7 +4,6 @@
 - 👀 Tenho interesse em tecnologia, design, natureza, pensamentos e músicas.
 - 🌱 Atualmente estou aprendendo programação e criação de projeto de negócios.
 - 👩🏽‍💻 Estou procurando colaborar em uma startup o OnlyPets um app de atendimento veterinário.
-- 💁🏽‍♀️ Sempre busco conhecer algo novo e melhorar quem eu sou.
 - 👩🏽‍💼 Uma futura psicóloga!
 - 📖 frase que me motiva: "Feliz aquele que transfere o que sabe e aprende o que ensina." ~ Cora Coralina.
 <!---
@@ -40,7 +39,6 @@ You can click the Preview link to take a look at your changes.
           
 ### Estou aprendendo
 <div style="display: inline_block"><br>
-<img align="center" alt="Tici-java" width="30" height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="center" alt="Tici-javascript" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" alt="Tici-django" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" />
 <img align="center" alt="Tici-figma" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
