@@ -20,11 +20,11 @@ You can click the Preview link to take a look at your changes.
           
 <div>
 <a href="https://github.com/Ticianebarros">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ticianebarros&layout=compact&langs_count=7&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ticianebarros&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ticianebarros&layout=compact&langs_count=7&theme=radical"/> -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ticianebarros&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>        
 
-### Ferramentas e Tecnologias
+### Ferramentas e Tecnologias:
 <div style="display: inline_block"><br>
 <img align="center" alt="Tici-git" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="Tici-github" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 <img align="center" alt="Tici-javascript" width="30" height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
           
-### Estou aprendendo
+### Estou aprendendo:
 <div style="display: inline_block"><br>
 <img align="center" alt="Tici-figma" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="center" alt="Tici-html5" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -44,6 +44,6 @@ You can click the Preview link to take a look at your changes.
 <img align="center" alt="Tici-javascript" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>                                        
 
-### Pessoas que visitaram o meu perfil:
+### Visitas ao perfil:
   <img src="https://profile-counter.glitch.me/{Ticianebarros}/count.svg" alt="Ticiane :: Visitor's Count" />
   
