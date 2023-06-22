@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
           
 <div>
 <a href="https://github.com/Ticianebarros">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevlTz&layout=compact&langs_count=7&theme=dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ticianebarros&layout=compact&langs_count=7&theme=dark"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ticianebarros&show_icons=true&theme=bear"/>
 </div>    
 
