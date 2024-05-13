@@ -32,15 +32,9 @@ You can click the Preview link to take a look at your changes.
 <img align="center" alt="Tici-canva" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 <img align="center" alt="Tici-figma" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="center" alt="Tici-python" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</div>
-          
-### Estou aprendendo:
-<div style="display: inline_block"><br>
-<img align="center" alt="Tici-html5" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt="Tici-css3" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  />
-<img align="center" alt="Tici-javascript" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>                                        
+</div>                                     
 
-### Visitas ao perfil:
+### Visitas ao perfil: 
+Thank you pela visita :D
   <img src="https://profile-counter.glitch.me/{Ticianebarros}/count.svg" alt="Ticiane :: Visitor's Count" />
   
