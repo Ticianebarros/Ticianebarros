@@ -3,7 +3,7 @@
 - 🤝🏽 Tudo bem com você? Esprero que sim!
 - 👀 Tenho interesse em tecnologia, design, natureza, pensamentos e músicas.
 - 🌱 Atualmente estou aprendendo sobre saúde psicológica, criação de projetos e iniciação científica.
-- 👩🏽‍💼 Academica em Psicologia!
+- 👩🏽‍💼 Acadêmica em Psicologia!
 - 📖 frase que me motiva: "Feliz aquele que transfere o que sabe e aprende o que ensina." ~ Cora Coralina.
 <!---
 Ticianebarros/Ticianebarros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
